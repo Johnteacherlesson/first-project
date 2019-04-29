@@ -1,0 +1,4 @@
+'''
+hp=[10,10]
+print ("player 1 has",hp[0],"hp")
+print ("player 2 has",hp[1],"hp")

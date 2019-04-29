@@ -34,3 +34,21 @@ sans={
     "sattack1_dmg":5,
     "sattack1_state": "force"
 }
+
+###a cute little foe but very dangerous! he has annoying attacks to ;D
+PIKACHU={
+    "name": "PIKACHU",
+    "type": "pokemon",
+    "battack3": "iron tail",
+    "battack3_dmg":50,
+    "battack3_state": "stunned",
+    "battack4": "lightning ball",
+    "battack4_dmg":50,
+    "battack4_state": "electrified",
+    "sattack3": "lightning dash",
+    "sattack3_dmg":100,
+    "sattack3_states": "electrified",
+    "sattack4": "lightning barrage",
+    "sattack4_dmg":100,
+    "sattack4_state": "electrified"
+}

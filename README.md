@@ -9,3 +9,6 @@
 ### dragonball, one punch man, pokemon, deltarune, and etc.
 ### each player in the start gets 20 gold. gold is used to buy new charaters or unlock new charaters. BP(battle point) 
 ### BP is used to unlock new levels and new skills.
+
+# HOMEWORK!!!
+# Use "input" twice in your game and add another character using "dictionary".

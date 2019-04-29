@@ -7,3 +7,30 @@ print ("player 2 has",gold[1],"gold")
 
 print ("player 1 has",bp[0],"BP")
 print ("player 2 has",bp[1],"BP")
+
+sans=["skeleton","normal attack:bones, and a single gaster blaster",]
+store = [sans]
+print (store)
+
+stamina=[1000,1000]
+
+#pyshical state of the charater that if its stunned, electrified or sleepy.
+states = {
+    "sleepy": "recharge stamina until",
+    "stunned": "can't move for 5 secs",
+    "electrified": "stunned and taking dmg for 10 secs",
+    "normal": "your taking 0 dmg unless player does dmg and your not stunned unless player is stunned, etc",
+    "force": "the your heavy and opponent controls your movement for 5 secs",
+}
+# a lazy skeleton but very strong! he cost 100 gold, and he has many skills.
+sans={
+    "name": "SANS",
+    "type": "skeleton that makes puns",
+    "battack": "bones and gaster blaster",
+    "battack_dmg":10,
+    "sattack": "gaster plater barrage",
+    "sattack_dmg":20,
+    "sattack1": "blue soul"
+    "sattack1_dmg":5,
+    "sattack1_state": "force"
+}

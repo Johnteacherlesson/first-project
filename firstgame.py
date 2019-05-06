@@ -70,4 +70,10 @@ print(sans["battack"],sans["battack_dmg"],sans ["battack_state"])
     #print("no")
     
 
-print("90"*10)
+# i added input statment that stores the names for the players
+print("HELLO THIS GAME IS ABOUT FIGHT PLAYER ONE CHOOSE YOUR NAME")
+x=input("choose name: ")
+print("hello", x,"welcome to the game")
+print("NOW YOUR TURN PLAYER TWO!")
+y=input("choose name: ")
+print("hello", y,"welcome to the game")

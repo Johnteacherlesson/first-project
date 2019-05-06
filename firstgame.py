@@ -58,3 +58,16 @@ pikachu={
 print(pikachu)
 print(pikachu["battack3"],pikachu["battack3_dmg"], pikachu["battack3_state"] )
 print(sans["battack"],sans["battack_dmg"],sans ["battack_state"])
+
+#bone=["ghghghgh","sans","pikachu","battack","gaster blaster","papyrus"] #i added a system where it check like its say if "900" in bone it mean if its there do that else mean if not do that
+
+#for x in pikachu,pikachu.values():
+    #print(x)
+#bone=[900]
+#if "900" in bone:
+   # print("yes it exist")
+#else:
+    #print("no")
+    
+
+print("90"*10)

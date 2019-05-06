@@ -77,3 +77,26 @@ print("hello", x,"welcome to the game")
 print("NOW YOUR TURN PLAYER TWO!")
 y=input("choose name: ")
 print("hello", y,"welcome to the game")
+
+print(pikachu)
+print(pikachu["battack3"],pikachu["battack3_dmg"], pikachu["battack3_state"] )
+print(sans["battack"],sans["battack_dmg"],sans ["battack_state"])
+
+print("HELLO THIS GAME IS ABOUT FIGHT PLAYER ONE CHOOSE YOUR NAME")
+x=input("choose name: ")
+print("hello", x,"welcome to the game")
+print("NOW YOUR TURN PLAYER TWO!")
+y=input("choose name: ")
+print("hello", y,"welcome to the game")
+
+s=input("choose your charater type in pikachu to be pikachu and or type something else to be sans: ")
+if s=="pikachu":
+    print("your now pikachu")
+else:
+    print("you're now sans")
+# added charater selection
+p=input("choose your charater player 2 type in pikachu to be pikachu or type in somthing else to be sans: ")
+if p=="pikachu":
+    print("you're now pikachu")
+else:
+    print("you're now sans")

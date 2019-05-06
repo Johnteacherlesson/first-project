@@ -21,6 +21,7 @@ states = {
     "electrified": "stunned and taking dmg for 10 secs",
     "normal": "your taking 0 dmg unless player does dmg and your not stunned unless player is stunned, etc",
     "force": "the your heavy and opponent controls your movement for 5 secs",
+    "KR": "dot damage,damages the opponent over time. the daamages lasts for 5 secs and each sec is 2 dmg"
 }
 # a lazy skeleton but very strong! he cost 100 gold, and he has many skills.
 sans={
@@ -28,16 +29,17 @@ sans={
     "type": "skeleton that makes puns",
     "battack": "bones and gaster blaster",
     "battack_dmg":10,
+    "battack_state": "KR",
     "sattack": "gaster plater barrage",
     "sattack_dmg":20,
-    "sattack1": "blue soul"
+    "sattack1": "blue soul",
     "sattack1_dmg":5,
     "sattack1_state": "force"
 }
 
-###a cute little foe but very dangerous! he has annoying attacks to ;D
-PIKACHU={
-    "name": "PIKACHU",
+#a cute little foe but very dangerous! he has annoying attacks to ;D
+pikachu={
+    "name": "PIKACHU",#key value
     "type": "pokemon",
     "battack3": "iron tail",
     "battack3_dmg":50,
@@ -52,3 +54,7 @@ PIKACHU={
     "sattack4_dmg":100,
     "sattack4_state": "electrified"
 }
+
+print(pikachu)
+print(pikachu["battack3"],pikachu["battack3_dmg"], pikachu["battack3_state"] )
+print(sans["battack"],sans["battack_dmg"],sans ["battack_state"])

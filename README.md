@@ -11,4 +11,5 @@
 ### BP is used to unlock new levels and new skills.
 
 # HOMEWORK!!!
-# Use "input" twice in your game and add another character using "dictionary".
+# use "input"!!! List the possible attacks for the character and ask the player which attack they want to use. 
+# USE HP!!!!!

@@ -100,3 +100,58 @@ if p=="pikachu":
     print("you're now pikachu")
 else:
     print("you're now sans")
+
+    
+    
+    
+    
+    
+ 
+ 
+ 
+q=input("type in sattack1 to use your sattack but if you type in something else you use your battack")
+if q=="sattack1":
+    print("player 2 has 100 hp!")
+else:
+    print("player 2 has 150 HP!")
+e=input("YOUR TURN PLAYER2! type in sattack 2 to use your sattack and type in something else to use your battack!")
+if e=="sattack2":
+    print("player1 has 100 hp")
+else:
+    print("player1 has 150 HP!")
+q=input("type in sattack1 to use your sattack but if you type in something else you use your battack")
+if q=="sattack1":
+    print("player 2 has 0 hp!")
+    print("player 2 has fallen")
+else:
+    print("player 2 has 100 HP!")
+e=input("YOUR TURN PLAYER2! type in sattack 2 to use your sattack and type in something else to use your battack!")
+if e=="sattack2":
+    print("player1 has 0 hp")
+    print("player 1 has fallen!")
+else:
+    print("player1 has 100 HP!")
+q=input("NOW YOU CAN ONLY USE BATTACKS TYPE IN battack1 or just type in a random word to use it!")
+if q=="battack1":
+    print("player2 has 50 HP!")
+else:
+    print("player2 has 50 HP!")
+e=input("NOW YOU CAN ONLY USE BATTACKS TYPE IN battack2 or just type in a random word to use it!")
+if e=="battack2":
+    print("player1 has 50 HP!")
+else:
+    print("player1 has 50 HP!")
+q=input("NOW YOU CAN ONLY USE BATTACKS TYPE IN battack1 or just type in a random word to use it!")
+if q=="battack2":
+    print("player2 has 0 HP!")
+    print("player2 has fallen!")
+else:
+    print("player2 has 0 HP!")
+    print("player2 has fallen!")
+e=input("NOW YOU CAN ONLY USE BATTACKS TYPE IN battack2 or just type in a random word to use it!")
+if e=="battack2":
+    print("player1 has  0 HP!")
+    print("player1 has fallen!")
+else:
+    print("player1 has  0 HP!")
+    print("player1 has fallen!")

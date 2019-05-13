@@ -11,5 +11,4 @@
 ### BP is used to unlock new levels and new skills.
 
 # HOMEWORK!!!
-# use "input"!!! List the possible attacks for the character and ask the player which attack they want to use. 
-# USE HP!!!!!
+# Too redundant inputs and if statements! Taking up too much memory for the computer to process, so you need to create a function that can be applied for all of the inputs.  

@@ -10,3 +10,9 @@ print ("player 1 has",player1_hp,"hp!")
 print ("player 2 has",player2_hp,"hp!")
 print ("player 2 has been obliterated!")
 
+###custom say similar to undertale word.
+x = input()
+print(len(x))
+
+for i in range(len(x)):
+    print (x[i])

@@ -11,7 +11,4 @@
 ### BP is used to unlock new levels and new skills.
 
 # HOMEWORK!!!
-# Too redundant inputs and if statements! Taking up too much memory for the computer to process, so you need to create a function that can be applied for all of the inputs.  
-
-Finish the health bar
-Make at least 5 more moves
+# For Scratch, make 3 more steps and each step has to use indexes and repeats.

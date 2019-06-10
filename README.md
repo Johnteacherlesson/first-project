@@ -12,3 +12,4 @@
 
 # HOMEWORK!!!
 # Finish 5 stages WITH NO GLITCH!!!!!!!!
+#fix the karma to!!!!!

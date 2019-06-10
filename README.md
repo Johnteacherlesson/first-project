@@ -11,4 +11,4 @@
 ### BP is used to unlock new levels and new skills.
 
 # HOMEWORK!!!
-# For Scratch, make 3 more steps and each step has to use indexes and repeats.
+# Finish 5 stages WITH NO GLITCH!!!!!!!!

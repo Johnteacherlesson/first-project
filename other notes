@@ -122,3 +122,14 @@ if e=="sattack2":
     print("player1 has 100 hp")
 else:
     print("player1 has 150 HP!")
+
+number=0
+emptystring=""
+for i in range(100):
+    number=number+1 
+    emptystring=emptystring+str(number)
+    print (emptystring)
+###so number is a variable that store nothing but 0 and this variable is called emptystring which stores nothing again but ""
+###so for i in range(100) will repeat a code 100 times!and its adding 1 to number 100 times and adding number to empty string 100 times!
+### and then its printing/pasting emptystring 100 which makes a number pyramid.
+

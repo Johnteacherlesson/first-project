@@ -131,5 +131,16 @@ for i in range(100):
     print (emptystring)
 ###so number is a variable that store nothing but 0 and this variable is called emptystring which stores nothing again but ""
 ###so for i in range(100) will repeat a code 100 times!and its adding 1 to number 100 times and adding number to empty string 100 times!
-### and then its printing/pasting emptystring 100 which makes a number pyramid.
+### and then its printing/pasting emptystring 100 which makes a number pyramid.'
+
+number=0
+emptystring=""
+emptylist=[]
+for i in range(100):
+    number=number+1 
+    emptystring=emptystring+str(number)
+    emptylist.append(number)  
+    print (emptylist)
+###so list is like a stack when we add new items it goes to the latest pile or the top. list is just like a pancake stack.
+###append is stacking something to a list its similar to add on scratch.
 

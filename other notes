@@ -195,3 +195,33 @@ for i in range(7):
 
 
 print("second step:", david)
+
+david=[]
+david.append("no sleep")
+print("first step:", david)
+david.append("more stuff")
+print("something step:",david)
+david.append("python")
+print("nothing step:",david)
+david.append("BNHA")
+print("hmm step:",david)
+david.append("idk")
+print("nani step:",david)
+david.append("ALL MIGHT")
+print("BNHA step:",david)
+david.append("DEKU")
+print("BHNA 2 step:",david)
+appendNumber=0
+
+for i in range(7):
+    appendNumber=appendNumber+1
+    david.append(appendNumber)
+###deletes items
+print(david)
+for i in range(14):
+    david.pop()
+    
+
+
+
+print("second step:", david)

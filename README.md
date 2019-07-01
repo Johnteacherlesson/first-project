@@ -11,5 +11,6 @@
 ### BP is used to unlock new levels and new skills.
 
 # HOMEWORK!!!
-# Finish 5 stages WITH NO GLITCH!!!!!!!!
-#fix the karma to!!!!!
+#FIX THE HEALTH BAR!!!
+###(tip: erase all the code and start again in health bar)
+## and make two attacks fully functional

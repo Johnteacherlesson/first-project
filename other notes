@@ -171,3 +171,27 @@ david.pop()
 
 
 print("second step:", david)
+
+david=[]
+david.append("no sleep")
+print("first step:", david)
+david.append("more stuff")
+print("something step:",david)
+david.append("python")
+print("nothing step:",david)
+david.append("BNHA")
+print("hmm step:",david)
+david.append("idk")
+print("nani step:",david)
+david.append("ALL MIGHT")
+print("BNHA step:",david)
+david.append("DEKU")
+print("BHNA 2 step:",david)
+appendNumber=0
+###adding 1 to a variable and putting it in a list.
+for i in range(7):
+    appendNumber=appendNumber+1
+    david.append(appendNumber)
+
+
+print("second step:", david)

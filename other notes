@@ -144,3 +144,30 @@ for i in range(100):
 ###so list is like a stack when we add new items it goes to the latest pile or the top. list is just like a pancake stack.
 ###append is stacking something to a list its similar to add on scratch.
 
+### were adding items to a list and deleting them and printing them as well.
+david=[]
+david.append("no sleep")
+print("first step:", david)
+david.append("more stuff")
+print("something step:",david)
+david.append("python")
+print("nothing step:",david)
+david.append("BNHA")
+print("hmm step:",david)
+david.append("idk")
+print("nani step:",david)
+david.append("ALL MIGHT")
+print("BNHA step:",david)
+david.append("DEKU")
+print("BHNA 2 step:",david)
+
+david.pop()
+david.pop()
+david.pop()
+david.pop()
+david.pop()
+david.pop()
+david.pop()
+
+
+print("second step:", david)

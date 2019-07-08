@@ -13,3 +13,5 @@
 # HOMEWORK!!!
 
 ## and make two attacks fully functional
+
+## create 10 dictionaries with at least 5 keys and 5 values.

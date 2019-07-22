@@ -12,8 +12,8 @@
 
 # HOMEWORK!!!
 
-## and make two attacks fully functional
+## make two attacks fully functional
 
 ## create 10 dictionaries with at least 5 keys and 5 values.
 
-## make the attacked block work perfectly 10 out of 10 without a delay
+## make 5 different recursions with Scratch.

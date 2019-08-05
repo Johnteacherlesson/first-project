@@ -14,10 +14,11 @@
 
 ## make two attacks fully functional
 
-## create 10 dictionaries with at least 5 keys and 5 values.
+## code a recursive function that generates a random number from 1 to 5000 and adds 500 if it's below 2500.
 
-## make 5 different recursions with Scratch.
+## you have to finish one more attack
 
+'l
 A = {
     "1"
     "2"

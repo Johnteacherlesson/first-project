@@ -91,3 +91,17 @@ J = {
     }
 ##BOOM HOMEWORK
 
+import random
+
+def Randgem():
+    a=random.randit(500,1000)
+    if a<500:
+        a=a+100
+        print(a)
+        Randgem;
+
+Randgem;
+
+##what i remembered
+##also BOOM HOMEWORK
+

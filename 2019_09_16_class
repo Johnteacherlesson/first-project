@@ -1,0 +1,21 @@
+import random
+## generate a random number1 to 8
+x=random.randint(1,8)
+print(x)
+def randgen():
+    if x==1:
+        print ("punishment1")
+    if x==2:
+        print ("punishment 2")
+    if x==3:
+        print ("punishment 3")
+    if x==4:
+        print ("punishment 4")
+    if x==5:
+        print ("punishment 5")
+    if x==6:
+        print ("punishment 6")
+    if x==7:
+        print ("punishment 7")
+    if x==8: 
+        print ("punishment 8")

@@ -12,5 +12,6 @@
 
 # HOMEWORK!!!
 
-## finish the potato game!!
-
+## Blog: add three more games to the blog
+## Python: make a function that adds two numbers using arguments
+## ex. addition(1,2) should print 3.

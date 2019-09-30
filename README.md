@@ -12,6 +12,6 @@
 
 # HOMEWORK!!!
 
-## Blog: add three more games to the blog
-## Python: make a function that adds two numbers using arguments
-## ex. addition(1,2) should print 3.
+## make a function that creates a list with numbers and um random numbers
+## that adds all the numbers and um apend it to a list called um and print it
+## https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/

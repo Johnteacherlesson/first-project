@@ -15,9 +15,13 @@
 ## make a function that creates a list with numbers and um random numbers
 ## that adds all the numbers and um apend it to a list called um and print it
 ## https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/
-def hw(homework):
-    homework=1,2,34,5,4,3,5,6,5,0
-    hlist=[homework]
+def hw(q,r,t,e,p):
+    q=1
+    r=4
+    t=5
+    e=3
+    p=0
+    hlist=[q,r,t,e,p]
     hlist.sort()
     print (hlist)
 hw;

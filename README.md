@@ -13,4 +13,5 @@
 # HOMEWORK!!!
 
 ## MISSION
-## after you beat gaster, you will give the players the opportunity to save their score and write their name down, using the cloud variable, "score board"
+## make high score board
+## use cloud variable to store your highscores and update the highscore board!

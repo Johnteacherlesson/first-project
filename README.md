@@ -12,6 +12,4 @@
 
 # HOMEWORK!!!
 
-## MISSION
-## make high score board
-## use cloud variable to store your highscores and update the highscore board!
+https://www.codecademy.com/courses/learn-python-3/quizzes/learn-python-syntax-quiz?action=resume_content_item

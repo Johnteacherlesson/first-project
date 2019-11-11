@@ -12,6 +12,6 @@
 
 # HOMEWORK!!!
 
-https://www.codecademy.com/courses/learn-python-3/quizzes/learn-python-syntax-quiz?action=resume_content_item
+https://studio.code.org/s/csd3-2019/stage/6/puzzle/1
 
-Until Control Flow (Should take 1 hour, so take your time.
+Finish up to 9. Sprite Movement
